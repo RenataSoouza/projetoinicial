@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=65>
 </div>
 <h1 align="center">
-  <a href="renatasoouza.github.io/projetoinicial/" target="_blank">Aula 06 🔗  </a>
+  <a href="https://renatasoouza.github.io/projetoinicial/" target="_blank">Aula 06 🔗  </a>
 </h1>
 
 ### 📖 Sobre
