@@ -18,7 +18,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 </p>
 
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando o Front End
 
 ```bash
 # Clone este repositório
